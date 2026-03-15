@@ -203,12 +203,12 @@ Groq LLaMA 3.3 70B → compare 3 sources → return analysis
 
 ## 👥 Team
 
- Name 
+| Name |
 
-Kallem Architha 
-Kallem Anvitha 
-Saisri Katipelly 
-Aleti Ronith Reddy 
+|  Kallem Architha   |
+|  Kallem Anvitha    |  
+|  Saisri Katipelly  |
+| Aleti Ronith Reddy |
 
 **Team Name:** TeamKaliyug
 **Hackathon:** HackCrux V2
